@@ -1,7 +1,6 @@
 import React, { useContext } from 'react';
 import '../maincontainer.css'
 import { ContextApi } from '../../store/context'
-import { Data } from '../../types/types'
 import { Context } from '../../types/types'
 
 function IncomeExpense() {
